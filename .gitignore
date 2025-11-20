@@ -15,8 +15,6 @@ coverage/
 .stylelintcache
 
 # Dotenv configs
-.env
-.env.*
 
 # Logs
 npm-debug.log
@@ -51,3 +49,4 @@ TODO
 /tests/blackbox/server-log-*
 /tests/blackbox/sequencer-data.json
 /packages/extensions-sdk/temp-extension-*/
+config.bat
